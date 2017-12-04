@@ -1,7 +1,7 @@
 module.exports = {
   version: '2.3',
   serve: {
-    port: 8080
+    port: 10377
   },
   keys: ['some secret hurr'],
   session: {
@@ -11,8 +11,8 @@ module.exports = {
     dialect: 'mysql',
     host: 'localhost',
     port: '3306',
-    username: 'root',
-    password: '',
+    username: 'joe',
+    password: 'lzqq1088',
     database: 'RAP2_DELOS_APP',
     pool: {
       max: 5,

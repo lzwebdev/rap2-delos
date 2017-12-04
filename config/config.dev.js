@@ -1,7 +1,7 @@
 module.exports = {
   version: '2.3',
   serve: {
-    port: 8080
+    port: 10377
   },
   keys: ['some secret hurr'],
   session: {
